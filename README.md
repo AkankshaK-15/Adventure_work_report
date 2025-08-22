@@ -58,5 +58,17 @@ The dashboard includes:
 - **Power Query** – Data cleaning & transformation  
 
 ---
+*<img width="1427" height="861" alt="image" src="https://github.com/user-attachments/assets/85d7890b-8949-414a-a76a-03998635ddbc" />*
+
+---
+*<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/8ffff6d5-89ec-4007-8798-57562d0c5ce3" />*
+
+---
+*<img width="1432" height="858" alt="image" src="https://github.com/user-attachments/assets/bae35b3c-bb99-41af-91fb-f0079c02a77c" />*
+
+---
+*<img width="1307" height="801" alt="image" src="https://github.com/user-attachments/assets/2f407353-1915-42cb-858d-1c730e66db01" />*
+
+
 
 
