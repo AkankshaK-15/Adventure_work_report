@@ -55,7 +55,7 @@ The dashboard includes:
 - **Power BI** – Data visualization & dashboard creation  
 - **Adventure Works Dataset** – Bike shop sales & customer data  
 - **DAX** – Measures & calculated columns  
-- **Power Query** – Data cleaning & transformation  
+- **Power Query** – Data cleaning & transformation
 
 ---
 *<img width="1427" height="861" alt="image" src="https://github.com/user-attachments/assets/85d7890b-8949-414a-a76a-03998635ddbc" />*
@@ -68,6 +68,18 @@ The dashboard includes:
 
 ---
 *<img width="1307" height="801" alt="image" src="https://github.com/user-attachments/assets/2f407353-1915-42cb-858d-1c730e66db01" />*
+
+---
+## 🎓 Coursework Project
+This analysis was developed as a **course project** for **Microsoft Power BI Desktop for Business Intelligence** by **Maven Analytics on udemy**  
+The objective was to apply **Power BI, DAX, and data visualization** techniques to generate actionable insights from the Adventure Works dataset.
+
+---
+
+## 👤 Author
+**Akanksha Kohale**  
+📧 akankshakohale15@gmail.com  
+🔗www.linkedin.com/in/akanksha-kohale  
 
 
 
