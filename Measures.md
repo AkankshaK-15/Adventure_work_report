@@ -67,11 +67,15 @@ Previous Month Returns = CALCULATE([Total Returns],
 ### 🔹 Targets & Gaps
 
 Order Target = [Previous Month Orders] * 1.1
+
 Profit Target = [Previous Month Profit] * 1.1
+
 Revenue Target = [Previous Month Revenue] * 1.1
 
 Order Target Gap = [Total Orders] - [Order Target]
+
 Profit Target Gap = [Total Profit] - [Profit Target]
+
 Revenue Target Gap = [Total Revenue] - [Revenue Target]
 
 ### 🔹 Scenario / Parameter-based
